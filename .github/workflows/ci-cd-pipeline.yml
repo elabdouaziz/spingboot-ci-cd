@@ -3,7 +3,7 @@ name: CI - Build and Push Docker Image
 on:
   push:
     branches:
-      - main  # ou ta branche principale
+      - main  # ou ta branche principal
 
 jobs:
   build:
